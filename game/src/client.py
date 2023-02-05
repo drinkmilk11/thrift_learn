@@ -1,5 +1,4 @@
 
-   #     alculator 为 Match
 # 此处修改 ttypes 路径 以及 User 类
 from match_client.match import Match
 from match_client.match.ttypes import User
